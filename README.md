@@ -10,3 +10,4 @@ one, one to many and many to many chatting options between students and teachers
 
 ## Youtube Unlisted Video Link:
 * https://youtu.be/j6akhgv4eP4
+Functionalities of the project is described in the video.
