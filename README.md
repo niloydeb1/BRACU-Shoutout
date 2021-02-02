@@ -8,6 +8,6 @@ one, one to many and many to many chatting options between students and teachers
 * Swing
 * MySQL
 
-## Youtube Unlisted Video Link:
-* https://youtu.be/j6akhgv4eP4
+## Youtube Unlisted Video Link: 
 Functionalities of the project is described in the video.
+* https://youtu.be/j6akhgv4eP4
